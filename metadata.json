@@ -1,0 +1,6 @@
+{
+  "name": "Panic Input Task Planner",
+  "description": "Convert high-stress panic inputs into calm, reassuring, highly actionable step-by-step to-do lists.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
